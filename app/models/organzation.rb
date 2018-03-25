@@ -1,0 +1,2 @@
+class Organzation < ApplicationRecord
+end
